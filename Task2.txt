@@ -1,0 +1,17 @@
+TASK: Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın.
+
+girish her hansi bir n ededi
+
+n 21-ə bölünürmü?
+ekrana yazdır "n ededi 3-ə və 7-ə bölünür"
+
+eks halda
+ekrana yazdır "n ededi 3-ə və 7ə bölünmür"
+
+Start 
+İnput n
+
+if n%21
+print("3-ə və 7-ə bölünür")
+else
+print("3-ə və 7-ə bölünmür")
